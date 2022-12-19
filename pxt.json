@@ -1,6 +1,6 @@
 {
     "name": "第二屆 智在 bit 得 - micro:bit 創意裝置設計比賽 - 參賽作品 ",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
