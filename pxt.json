@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "kittenwifi": "github:kittenbot/pxt-kittenwifi#v0.2.7"
+        "kittenwifi": "github:kittenbot/pxt-kittenwifi#v0.2.7",
+        "touchbit": "github:pimoroni/pxt-touchbit#v0.0.1"
     },
     "files": [
         "main.blocks",
