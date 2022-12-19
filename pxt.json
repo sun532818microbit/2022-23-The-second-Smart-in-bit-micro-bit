@@ -1,0 +1,26 @@
+{
+    "name": "第二屆 智在 bit 得 - micro:bit 創意裝置設計比賽 - 參賽作品 ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "kittenwifi": "github:kittenbot/pxt-kittenwifi#v0.2.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
